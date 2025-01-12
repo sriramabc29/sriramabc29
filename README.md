@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/user-attachments/assets/b76ca2cc-4e15-4740-8580-b1c287b55ca2)
+![github-header-image (1)](https://github.com/user-attachments/assets/eb2bcb2e-a304-4c3c-bed1-3bc5691491a0)
 <h1 align="center">Hi 👋, I'm SRIRAM</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Finance & Coding Innovator | Building Financial and Predictive Web Solutions | Problem Solver | Seeking Collaborative Opportunities to Create Impactful Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
