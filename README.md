@@ -1,5 +1,5 @@
 
-![Header](https://drive.google.com/file/d/1UPOxGJNcq1J2DMXWvK1iFNGmOM6h5Uma/view?usp=drive_link)
+![github-header-image](https://github.com/user-attachments/assets/b76ca2cc-4e15-4740-8580-b1c287b55ca2)
 <h1 align="center">Hi 👋, I'm SRIRAM</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Finance & Coding Innovator | Building Financial and Predictive Web Solutions | Problem Solver | Seeking Collaborative Opportunities to Create Impactful Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -33,29 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriramabc29&show_icons=true&locale=en" alt="sriramabc29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriramabc29&" alt="sriramabc29" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
 
