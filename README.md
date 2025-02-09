@@ -1,7 +1,7 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/4884d526-d98c-492c-84f0-fc88cfce3f25)
 <h1 align="center">Hi 👋, I'm SRIRAM</h1>
-<h1 align="left">Portfolio: https://sriportfolio.xyz/</h1>
+<h2 align="left">Portfolio: https://sriportfolio.xyz/</h2>
 <h3 align="center">Aspiring Full-Stack Developer | Finance & Coding Innovator | Building Financial and Predictive Web Solutions | Problem Solver | Seeking Collaborative Opportunities to Create Impactful Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
